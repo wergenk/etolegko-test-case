@@ -9,7 +9,7 @@ pip install requests
 
 Запуск скрипта
 ```bash
-python solution.pyk
+python solution.py
 ```
 
 Далее необходимо будет ввест url-адрес и дождаться вывода работы программы
